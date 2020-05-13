@@ -9,7 +9,7 @@ Using the UFO dataset provided in the form of an array of JavaScript objects, wr
 
 Make sure you have a column for date/time, city, state, country, shape, and comment at the very least.
 	
-
+![](UFO-Level-1%20/Level-1)
 
 #### Level 2: Multiple Search Categories
 
