@@ -3,11 +3,11 @@
 
 In this project, javascript was used to build two different UFO levels (levels 1 & 2).
 ### Level 1: Automatic Table & Date Search
-Created a basic HTML web page
+	. Created a basic HTML web page
 
-Using the UFO dataset provided in the form of an array of JavaScript objects, write code that appends a table to your web page and then adds new rows of data for each UFO sighting.
+	. Using the UFO dataset provided in the form of an array of JavaScript objects, write code that appends a table to your web page 	   and then adds new rows of data for each UFO sighting.
 
-Make sure you have a column for date/time, city, state, country, shape, and comment at the very least.
+	. Make sure you have a column for date/time, city, state, country, shape, and comment at the very least.
 	
 ![](https://github.com/ojndebbio/JavaScript-Challenge/blob/master/UFO-Level-1/Level-1.PNG)
 
@@ -26,6 +26,6 @@ Using multiple input tags and/or select dropdowns, write JavaScript code so the 
 	shape
 	
 	
-![](
+![](https://github.com/ojndebbio/JavaScript-Challenge/blob/master/UFO-Level-2/Level-2.PNG)
 
 
