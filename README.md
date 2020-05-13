@@ -11,7 +11,7 @@ In this project, javascript was used to build two different UFO levels (levels 1
 	
 ![](https://github.com/ojndebbio/JavaScript-Challenge/blob/master/UFO-Level-1/Level-1.PNG)
 
-#### Level 2: Multiple Search Categories
+### Level 2: Multiple Search Categories
 
 Using multiple input tags and/or select dropdowns, write JavaScript code so the user can to set multiple filters and search for UFO sightings using the following criteria based on the table columns:
 
